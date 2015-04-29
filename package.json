@@ -1,0 +1,22 @@
+{
+  "name": "zetta-obd2-driver",
+  "version": "0.1.0",
+  "description": "Zetta OBD2 Driver to make every car connected car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Zetta",
+    "Driver",
+    "OBD2",
+    "Car"
+  ],
+  "author": "Anil Sagar <anil614sagar@gmail.com> (https://in.linkedin.com/in/anilsagar/)",
+  "license": "ISC",
+  "dependencies": {
+    "bluetooth-serial-port": "^1.2.2",
+    "zetta-device": "^0.10.0",
+    "zetta-scout": "^0.5.0"
+  }
+}
